@@ -1,0 +1,9 @@
+D:\Coding\ITMO\4_WinFormsCS\lab3\UPR4CK\ITMO.WFCS.L3U4\ITMO.WFCS.L3U4\bin\Debug\ITMO.WFCS.L3U4.pdb
+D:\Coding\ITMO\4_WinFormsCS\lab3\UPR4CK\ITMO.WFCS.L3U4\ITMO.WFCS.L3U4\obj\Debug\ITMO.WFCS.L3U4.FilControl.resources
+D:\Coding\ITMO\4_WinFormsCS\lab3\UPR4CK\ITMO.WFCS.L3U4\ITMO.WFCS.L3U4\obj\Debug\ITMO.WFCS.L3U4.Properties.Resources.resources
+D:\Coding\ITMO\4_WinFormsCS\lab3\UPR4CK\ITMO.WFCS.L3U4\ITMO.WFCS.L3U4\obj\Debug\ITMO.WFCS.L3U4.csproj.GenerateResource.cache
+D:\Coding\ITMO\4_WinFormsCS\lab3\UPR4CK\ITMO.WFCS.L3U4\ITMO.WFCS.L3U4\obj\Debug\ITMO.WFCS.L3U4.pdb
+D:\Coding\ITMO\4_WinFormsCS\lab3\UPR4CK\ITMO.WFCS.L3U4\ITMO.WFCS.L3U4\bin\Debug\ITMO.WFCS.L3U4.exe.config
+D:\Coding\ITMO\4_WinFormsCS\lab3\UPR4CK\ITMO.WFCS.L3U4\ITMO.WFCS.L3U4\bin\Debug\ITMO.WFCS.L3U4.exe
+D:\Coding\ITMO\4_WinFormsCS\lab3\UPR4CK\ITMO.WFCS.L3U4\ITMO.WFCS.L3U4\obj\Debug\ITMO.WFCS.L3U4.exe
+D:\Coding\ITMO\4_WinFormsCS\lab3\UPR4CK\ITMO.WFCS.L3U4\ITMO.WFCS.L3U4\obj\Debug\ITMO.WFCS.L3U4.csprojAssemblyReference.cache
