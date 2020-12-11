@@ -1,9 +1,0 @@
-D:\Coding\ITMO\4_WinFormsCS\ALL_LABS\ITMO.WFCS.HW\ITMO.WFCS.L7U2_WinAsynchDelegate\bin\Debug\ITMO.WFCS.L7U2_WinAsynchDelegate.exe.config
-D:\Coding\ITMO\4_WinFormsCS\ALL_LABS\ITMO.WFCS.HW\ITMO.WFCS.L7U2_WinAsynchDelegate\bin\Debug\ITMO.WFCS.L7U2_WinAsynchDelegate.exe
-D:\Coding\ITMO\4_WinFormsCS\ALL_LABS\ITMO.WFCS.HW\ITMO.WFCS.L7U2_WinAsynchDelegate\bin\Debug\ITMO.WFCS.L7U2_WinAsynchDelegate.pdb
-D:\Coding\ITMO\4_WinFormsCS\ALL_LABS\ITMO.WFCS.HW\ITMO.WFCS.L7U2_WinAsynchDelegate\obj\Debug\ITMO.WFCS.L7U2_WinAsynchDelegate.csprojAssemblyReference.cache
-D:\Coding\ITMO\4_WinFormsCS\ALL_LABS\ITMO.WFCS.HW\ITMO.WFCS.L7U2_WinAsynchDelegate\obj\Debug\ITMO.WFCS.L7U2_WinAsynchDelegate.Form1.resources
-D:\Coding\ITMO\4_WinFormsCS\ALL_LABS\ITMO.WFCS.HW\ITMO.WFCS.L7U2_WinAsynchDelegate\obj\Debug\ITMO.WFCS.L7U2_WinAsynchDelegate.Properties.Resources.resources
-D:\Coding\ITMO\4_WinFormsCS\ALL_LABS\ITMO.WFCS.HW\ITMO.WFCS.L7U2_WinAsynchDelegate\obj\Debug\ITMO.WFCS.L7U2_WinAsynchDelegate.csproj.GenerateResource.cache
-D:\Coding\ITMO\4_WinFormsCS\ALL_LABS\ITMO.WFCS.HW\ITMO.WFCS.L7U2_WinAsynchDelegate\obj\Debug\ITMO.WFCS.L7U2_WinAsynchDelegate.exe
-D:\Coding\ITMO\4_WinFormsCS\ALL_LABS\ITMO.WFCS.HW\ITMO.WFCS.L7U2_WinAsynchDelegate\obj\Debug\ITMO.WFCS.L7U2_WinAsynchDelegate.pdb

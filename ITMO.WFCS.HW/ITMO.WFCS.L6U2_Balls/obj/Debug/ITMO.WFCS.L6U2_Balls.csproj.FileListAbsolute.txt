@@ -1,9 +1,0 @@
-D:\Coding\ITMO\4_WinFormsCS\ALL_LABS\ITMO.WFCS.HW\ITMO.WFCS.L6U2_Balls\bin\Debug\ITMO.WFCS.L6U2_Balls.exe.config
-D:\Coding\ITMO\4_WinFormsCS\ALL_LABS\ITMO.WFCS.HW\ITMO.WFCS.L6U2_Balls\bin\Debug\ITMO.WFCS.L6U2_Balls.exe
-D:\Coding\ITMO\4_WinFormsCS\ALL_LABS\ITMO.WFCS.HW\ITMO.WFCS.L6U2_Balls\bin\Debug\ITMO.WFCS.L6U2_Balls.pdb
-D:\Coding\ITMO\4_WinFormsCS\ALL_LABS\ITMO.WFCS.HW\ITMO.WFCS.L6U2_Balls\obj\Debug\ITMO.WFCS.L6U2_Balls.Form1.resources
-D:\Coding\ITMO\4_WinFormsCS\ALL_LABS\ITMO.WFCS.HW\ITMO.WFCS.L6U2_Balls\obj\Debug\ITMO.WFCS.L6U2_Balls.Properties.Resources.resources
-D:\Coding\ITMO\4_WinFormsCS\ALL_LABS\ITMO.WFCS.HW\ITMO.WFCS.L6U2_Balls\obj\Debug\ITMO.WFCS.L6U2_Balls.csproj.GenerateResource.cache
-D:\Coding\ITMO\4_WinFormsCS\ALL_LABS\ITMO.WFCS.HW\ITMO.WFCS.L6U2_Balls\obj\Debug\ITMO.WFCS.L6U2_Balls.exe
-D:\Coding\ITMO\4_WinFormsCS\ALL_LABS\ITMO.WFCS.HW\ITMO.WFCS.L6U2_Balls\obj\Debug\ITMO.WFCS.L6U2_Balls.pdb
-D:\Coding\ITMO\4_WinFormsCS\ALL_LABS\ITMO.WFCS.HW\ITMO.WFCS.L6U2_Balls\obj\Debug\ITMO.WFCS.L6U2_Balls.csprojAssemblyReference.cache

@@ -1,8 +1,0 @@
-D:\Coding\ITMO\4_WinFormsCS\lab3\UPR3\ITMO.WFCS.l3U3\ITMO.WFCS.l3U3\bin\Debug\ITMO.WFCS.l3U3.exe.config
-D:\Coding\ITMO\4_WinFormsCS\lab3\UPR3\ITMO.WFCS.l3U3\ITMO.WFCS.l3U3\bin\Debug\ITMO.WFCS.l3U3.exe
-D:\Coding\ITMO\4_WinFormsCS\lab3\UPR3\ITMO.WFCS.l3U3\ITMO.WFCS.l3U3\bin\Debug\ITMO.WFCS.l3U3.pdb
-D:\Coding\ITMO\4_WinFormsCS\lab3\UPR3\ITMO.WFCS.l3U3\ITMO.WFCS.l3U3\obj\Debug\ITMO.WFCS.l3U3.Properties.Resources.resources
-D:\Coding\ITMO\4_WinFormsCS\lab3\UPR3\ITMO.WFCS.l3U3\ITMO.WFCS.l3U3\obj\Debug\ITMO.WFCS.l3U3.csproj.GenerateResource.cache
-D:\Coding\ITMO\4_WinFormsCS\lab3\UPR3\ITMO.WFCS.l3U3\ITMO.WFCS.l3U3\obj\Debug\ITMO.WFCS.l3U3.exe
-D:\Coding\ITMO\4_WinFormsCS\lab3\UPR3\ITMO.WFCS.l3U3\ITMO.WFCS.l3U3\obj\Debug\ITMO.WFCS.l3U3.pdb
-D:\Coding\ITMO\4_WinFormsCS\lab3\UPR3\ITMO.WFCS.l3U3\ITMO.WFCS.l3U3\obj\Debug\ITMO.WFCS.l3U3.Form1.resources

@@ -1,9 +1,0 @@
-D:\Coding\ITMO\4_WinFormsCS\ALL_LABS\ITMO.WFCS.HW\ITMO.WFCS.L5U3_WinAnim\bin\Debug\ITMO.WFCS.L5U3_WinAnim.exe.config
-D:\Coding\ITMO\4_WinFormsCS\ALL_LABS\ITMO.WFCS.HW\ITMO.WFCS.L5U3_WinAnim\bin\Debug\ITMO.WFCS.L5U3_WinAnim.exe
-D:\Coding\ITMO\4_WinFormsCS\ALL_LABS\ITMO.WFCS.HW\ITMO.WFCS.L5U3_WinAnim\bin\Debug\ITMO.WFCS.L5U3_WinAnim.pdb
-D:\Coding\ITMO\4_WinFormsCS\ALL_LABS\ITMO.WFCS.HW\ITMO.WFCS.L5U3_WinAnim\obj\Debug\ITMO.WFCS.L5U3_WinAnim.csprojAssemblyReference.cache
-D:\Coding\ITMO\4_WinFormsCS\ALL_LABS\ITMO.WFCS.HW\ITMO.WFCS.L5U3_WinAnim\obj\Debug\ITMO.WFCS.L5U3_WinAnim.Form1.resources
-D:\Coding\ITMO\4_WinFormsCS\ALL_LABS\ITMO.WFCS.HW\ITMO.WFCS.L5U3_WinAnim\obj\Debug\ITMO.WFCS.L5U3_WinAnim.Properties.Resources.resources
-D:\Coding\ITMO\4_WinFormsCS\ALL_LABS\ITMO.WFCS.HW\ITMO.WFCS.L5U3_WinAnim\obj\Debug\ITMO.WFCS.L5U3_WinAnim.csproj.GenerateResource.cache
-D:\Coding\ITMO\4_WinFormsCS\ALL_LABS\ITMO.WFCS.HW\ITMO.WFCS.L5U3_WinAnim\obj\Debug\ITMO.WFCS.L5U3_WinAnim.exe
-D:\Coding\ITMO\4_WinFormsCS\ALL_LABS\ITMO.WFCS.HW\ITMO.WFCS.L5U3_WinAnim\obj\Debug\ITMO.WFCS.L5U3_WinAnim.pdb
