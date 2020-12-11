@@ -1,0 +1,13 @@
+D:\Coding\ITMO\4_WPF_CS\labs\ITMO.WPFCS.LABS\ITMO.WPF.L4U2_UserIn2\bin\Debug\ITMO.WPF.L4U2_UserIn2.exe.config
+D:\Coding\ITMO\4_WPF_CS\labs\ITMO.WPFCS.LABS\ITMO.WPF.L4U2_UserIn2\bin\Debug\ITMO.WPF.L4U2_UserIn2.exe
+D:\Coding\ITMO\4_WPF_CS\labs\ITMO.WPFCS.LABS\ITMO.WPF.L4U2_UserIn2\bin\Debug\ITMO.WPF.L4U2_UserIn2.pdb
+D:\Coding\ITMO\4_WPF_CS\labs\ITMO.WPFCS.LABS\ITMO.WPF.L4U2_UserIn2\obj\Debug\MainWindow.g.cs
+D:\Coding\ITMO\4_WPF_CS\labs\ITMO.WPFCS.LABS\ITMO.WPF.L4U2_UserIn2\obj\Debug\App.g.cs
+D:\Coding\ITMO\4_WPF_CS\labs\ITMO.WPFCS.LABS\ITMO.WPF.L4U2_UserIn2\obj\Debug\ITMO.WPF.L4U2_UserIn2_MarkupCompile.cache
+D:\Coding\ITMO\4_WPF_CS\labs\ITMO.WPFCS.LABS\ITMO.WPF.L4U2_UserIn2\obj\Debug\ITMO.WPF.L4U2_UserIn2_MarkupCompile.lref
+D:\Coding\ITMO\4_WPF_CS\labs\ITMO.WPFCS.LABS\ITMO.WPF.L4U2_UserIn2\obj\Debug\MainWindow.baml
+D:\Coding\ITMO\4_WPF_CS\labs\ITMO.WPFCS.LABS\ITMO.WPF.L4U2_UserIn2\obj\Debug\ITMO.WPF.L4U2_UserIn2.g.resources
+D:\Coding\ITMO\4_WPF_CS\labs\ITMO.WPFCS.LABS\ITMO.WPF.L4U2_UserIn2\obj\Debug\ITMO.WPF.L4U2_UserIn2.Properties.Resources.resources
+D:\Coding\ITMO\4_WPF_CS\labs\ITMO.WPFCS.LABS\ITMO.WPF.L4U2_UserIn2\obj\Debug\ITMO.WPFCS.L4U2_UserIn2.csproj.GenerateResource.cache
+D:\Coding\ITMO\4_WPF_CS\labs\ITMO.WPFCS.LABS\ITMO.WPF.L4U2_UserIn2\obj\Debug\ITMO.WPF.L4U2_UserIn2.exe
+D:\Coding\ITMO\4_WPF_CS\labs\ITMO.WPFCS.LABS\ITMO.WPF.L4U2_UserIn2\obj\Debug\ITMO.WPF.L4U2_UserIn2.pdb
