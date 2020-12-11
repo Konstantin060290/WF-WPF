@@ -1,0 +1,9 @@
+D:\Coding\ITMO\4_WinFormsCS\ALL_LABS\ITMO.WFCS.HW\ITMO.WFCS.L7U1_WinBackgroundWorker\bin\Debug\ITMO.WFCS.L7U1_WinBackgroundWorker.exe.config
+D:\Coding\ITMO\4_WinFormsCS\ALL_LABS\ITMO.WFCS.HW\ITMO.WFCS.L7U1_WinBackgroundWorker\bin\Debug\ITMO.WFCS.L7U1_WinBackgroundWorker.exe
+D:\Coding\ITMO\4_WinFormsCS\ALL_LABS\ITMO.WFCS.HW\ITMO.WFCS.L7U1_WinBackgroundWorker\bin\Debug\ITMO.WFCS.L7U1_WinBackgroundWorker.pdb
+D:\Coding\ITMO\4_WinFormsCS\ALL_LABS\ITMO.WFCS.HW\ITMO.WFCS.L7U1_WinBackgroundWorker\obj\Debug\ITMO.WFCS.L7U1_WinBackgroundWorker.csprojAssemblyReference.cache
+D:\Coding\ITMO\4_WinFormsCS\ALL_LABS\ITMO.WFCS.HW\ITMO.WFCS.L7U1_WinBackgroundWorker\obj\Debug\ITMO.WFCS.L7U1_WinBackgroundWorker.Form1.resources
+D:\Coding\ITMO\4_WinFormsCS\ALL_LABS\ITMO.WFCS.HW\ITMO.WFCS.L7U1_WinBackgroundWorker\obj\Debug\ITMO.WFCS.L7U1_WinBackgroundWorker.Properties.Resources.resources
+D:\Coding\ITMO\4_WinFormsCS\ALL_LABS\ITMO.WFCS.HW\ITMO.WFCS.L7U1_WinBackgroundWorker\obj\Debug\ITMO.WFCS.L7U1_WinBackgroundWorker.csproj.GenerateResource.cache
+D:\Coding\ITMO\4_WinFormsCS\ALL_LABS\ITMO.WFCS.HW\ITMO.WFCS.L7U1_WinBackgroundWorker\obj\Debug\ITMO.WFCS.L7U1_WinBackgroundWorker.exe
+D:\Coding\ITMO\4_WinFormsCS\ALL_LABS\ITMO.WFCS.HW\ITMO.WFCS.L7U1_WinBackgroundWorker\obj\Debug\ITMO.WFCS.L7U1_WinBackgroundWorker.pdb

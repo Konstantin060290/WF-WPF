@@ -1,0 +1,10 @@
+D:\Coding\ITMO\4_WinFormsCS\ALL_LABS\ITMO.WFCS.HW\L4U4\bin\Debug\L4U4.exe.config
+D:\Coding\ITMO\4_WinFormsCS\ALL_LABS\ITMO.WFCS.HW\L4U4\bin\Debug\L4U4.exe
+D:\Coding\ITMO\4_WinFormsCS\ALL_LABS\ITMO.WFCS.HW\L4U4\bin\Debug\L4U4.pdb
+D:\Coding\ITMO\4_WinFormsCS\ALL_LABS\ITMO.WFCS.HW\L4U4\obj\Debug\L4U4.csprojAssemblyReference.cache
+D:\Coding\ITMO\4_WinFormsCS\ALL_LABS\ITMO.WFCS.HW\L4U4\obj\Debug\L4U4.Properties.Resources.resources
+D:\Coding\ITMO\4_WinFormsCS\ALL_LABS\ITMO.WFCS.HW\L4U4\obj\Debug\L4U4.csproj.GenerateResource.cache
+D:\Coding\ITMO\4_WinFormsCS\ALL_LABS\ITMO.WFCS.HW\L4U4\obj\Debug\L4U4.exe
+D:\Coding\ITMO\4_WinFormsCS\ALL_LABS\ITMO.WFCS.HW\L4U4\obj\Debug\L4U4.pdb
+D:\Coding\ITMO\4_WinFormsCS\ALL_LABS\ITMO.WFCS.HW\L4U4\obj\Debug\L4U4.Form1.resources
+D:\Coding\ITMO\4_WinFormsCS\ALL_LABS\ITMO.WFCS.HW\L4U4\obj\Debug\L4U4.Form2.resources
