@@ -1,0 +1,9 @@
+D:\Coding\ITMO\4_WinFormsCS\ALL_LABS\ITMO.WFCS.HW\ITMO.WFCS.L6U3_WindowsFormsChart\bin\Debug\ITMO.WFCS.L6U3_WindowsFormsChart.exe.config
+D:\Coding\ITMO\4_WinFormsCS\ALL_LABS\ITMO.WFCS.HW\ITMO.WFCS.L6U3_WindowsFormsChart\bin\Debug\ITMO.WFCS.L6U3_WindowsFormsChart.exe
+D:\Coding\ITMO\4_WinFormsCS\ALL_LABS\ITMO.WFCS.HW\ITMO.WFCS.L6U3_WindowsFormsChart\bin\Debug\ITMO.WFCS.L6U3_WindowsFormsChart.pdb
+D:\Coding\ITMO\4_WinFormsCS\ALL_LABS\ITMO.WFCS.HW\ITMO.WFCS.L6U3_WindowsFormsChart\obj\Debug\ITMO.WFCS.L6U3_WindowsFormsChart.csprojAssemblyReference.cache
+D:\Coding\ITMO\4_WinFormsCS\ALL_LABS\ITMO.WFCS.HW\ITMO.WFCS.L6U3_WindowsFormsChart\obj\Debug\ITMO.WFCS.L6U3_WindowsFormsChart.Form1.resources
+D:\Coding\ITMO\4_WinFormsCS\ALL_LABS\ITMO.WFCS.HW\ITMO.WFCS.L6U3_WindowsFormsChart\obj\Debug\ITMO.WFCS.L6U3_WindowsFormsChart.Properties.Resources.resources
+D:\Coding\ITMO\4_WinFormsCS\ALL_LABS\ITMO.WFCS.HW\ITMO.WFCS.L6U3_WindowsFormsChart\obj\Debug\ITMO.WFCS.L6U3_WindowsFormsChart.csproj.GenerateResource.cache
+D:\Coding\ITMO\4_WinFormsCS\ALL_LABS\ITMO.WFCS.HW\ITMO.WFCS.L6U3_WindowsFormsChart\obj\Debug\ITMO.WFCS.L6U3_WindowsFormsChart.exe
+D:\Coding\ITMO\4_WinFormsCS\ALL_LABS\ITMO.WFCS.HW\ITMO.WFCS.L6U3_WindowsFormsChart\obj\Debug\ITMO.WFCS.L6U3_WindowsFormsChart.pdb

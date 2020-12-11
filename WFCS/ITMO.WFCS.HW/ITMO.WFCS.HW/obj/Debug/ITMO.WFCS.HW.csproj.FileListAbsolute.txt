@@ -1,0 +1,8 @@
+D:\Coding\ITMO\4_WinFormsCS\ALL_LABS\ITMO.WFCS.HW\ITMO.WFCS.HW\bin\Debug\ITMO.WFCS.HW.exe.config
+D:\Coding\ITMO\4_WinFormsCS\ALL_LABS\ITMO.WFCS.HW\ITMO.WFCS.HW\bin\Debug\ITMO.WFCS.HW.exe
+D:\Coding\ITMO\4_WinFormsCS\ALL_LABS\ITMO.WFCS.HW\ITMO.WFCS.HW\bin\Debug\ITMO.WFCS.HW.pdb
+D:\Coding\ITMO\4_WinFormsCS\ALL_LABS\ITMO.WFCS.HW\ITMO.WFCS.HW\obj\Debug\ITMO.WFCS.HW.csprojAssemblyReference.cache
+D:\Coding\ITMO\4_WinFormsCS\ALL_LABS\ITMO.WFCS.HW\ITMO.WFCS.HW\obj\Debug\ITMO.WFCS.HW.Properties.Resources.resources
+D:\Coding\ITMO\4_WinFormsCS\ALL_LABS\ITMO.WFCS.HW\ITMO.WFCS.HW\obj\Debug\ITMO.WFCS.HW.csproj.GenerateResource.cache
+D:\Coding\ITMO\4_WinFormsCS\ALL_LABS\ITMO.WFCS.HW\ITMO.WFCS.HW\obj\Debug\ITMO.WFCS.HW.exe
+D:\Coding\ITMO\4_WinFormsCS\ALL_LABS\ITMO.WFCS.HW\ITMO.WFCS.HW\obj\Debug\ITMO.WFCS.HW.pdb

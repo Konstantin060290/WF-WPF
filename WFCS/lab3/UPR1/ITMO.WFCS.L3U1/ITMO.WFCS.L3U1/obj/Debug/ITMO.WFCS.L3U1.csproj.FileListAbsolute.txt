@@ -1,0 +1,10 @@
+D:\Coding\ITMO\4_WinFormsCS\lab3\UPR1\ITMO.WFCS.L3U1\ITMO.WFCS.L3U1\bin\Debug\ITMO.WFCS.L3U1.pdb
+D:\Coding\ITMO\4_WinFormsCS\lab3\UPR1\ITMO.WFCS.L3U1\ITMO.WFCS.L3U1\obj\Debug\ITMO.WFCS.L3U1.csprojAssemblyReference.cache
+D:\Coding\ITMO\4_WinFormsCS\lab3\UPR1\ITMO.WFCS.L3U1\ITMO.WFCS.L3U1\obj\Debug\ITMO.WFCS.L3U1.Properties.Resources.resources
+D:\Coding\ITMO\4_WinFormsCS\lab3\UPR1\ITMO.WFCS.L3U1\ITMO.WFCS.L3U1\obj\Debug\ITMO.WFCS.L3U1.UserControlTimer.resources
+D:\Coding\ITMO\4_WinFormsCS\lab3\UPR1\ITMO.WFCS.L3U1\ITMO.WFCS.L3U1\obj\Debug\ITMO.WFCS.L3U1.csproj.GenerateResource.cache
+D:\Coding\ITMO\4_WinFormsCS\lab3\UPR1\ITMO.WFCS.L3U1\ITMO.WFCS.L3U1\obj\Debug\ITMO.WFCS.L3U1.pdb
+D:\Coding\ITMO\4_WinFormsCS\lab3\UPR1\ITMO.WFCS.L3U1\ITMO.WFCS.L3U1\obj\Debug\ITMO.WFCS.L3U1.Form1.resources
+D:\Coding\ITMO\4_WinFormsCS\lab3\UPR1\ITMO.WFCS.L3U1\ITMO.WFCS.L3U1\bin\Debug\ITMO.WFCS.L3U1.dll.config
+D:\Coding\ITMO\4_WinFormsCS\lab3\UPR1\ITMO.WFCS.L3U1\ITMO.WFCS.L3U1\bin\Debug\ITMO.WFCS.L3U1.dll
+D:\Coding\ITMO\4_WinFormsCS\lab3\UPR1\ITMO.WFCS.L3U1\ITMO.WFCS.L3U1\obj\Debug\ITMO.WFCS.L3U1.dll

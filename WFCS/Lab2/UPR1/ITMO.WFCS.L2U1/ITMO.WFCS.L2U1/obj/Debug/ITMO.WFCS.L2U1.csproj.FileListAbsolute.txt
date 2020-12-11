@@ -1,0 +1,9 @@
+D:\Coding\ITMO\4. WinForms C#\Lab2\UPR1\ITMO.WFCS.L2U1\ITMO.WFCS.L2U1\bin\Debug\ITMO.WFCS.L2U1.exe.config
+D:\Coding\ITMO\4. WinForms C#\Lab2\UPR1\ITMO.WFCS.L2U1\ITMO.WFCS.L2U1\bin\Debug\ITMO.WFCS.L2U1.exe
+D:\Coding\ITMO\4. WinForms C#\Lab2\UPR1\ITMO.WFCS.L2U1\ITMO.WFCS.L2U1\bin\Debug\ITMO.WFCS.L2U1.pdb
+D:\Coding\ITMO\4. WinForms C#\Lab2\UPR1\ITMO.WFCS.L2U1\ITMO.WFCS.L2U1\obj\Debug\ITMO.WFCS.L2U1.csprojAssemblyReference.cache
+D:\Coding\ITMO\4. WinForms C#\Lab2\UPR1\ITMO.WFCS.L2U1\ITMO.WFCS.L2U1\obj\Debug\ITMO.WFCS.L2U1.Form1.resources
+D:\Coding\ITMO\4. WinForms C#\Lab2\UPR1\ITMO.WFCS.L2U1\ITMO.WFCS.L2U1\obj\Debug\ITMO.WFCS.L2U1.Properties.Resources.resources
+D:\Coding\ITMO\4. WinForms C#\Lab2\UPR1\ITMO.WFCS.L2U1\ITMO.WFCS.L2U1\obj\Debug\ITMO.WFCS.L2U1.csproj.GenerateResource.cache
+D:\Coding\ITMO\4. WinForms C#\Lab2\UPR1\ITMO.WFCS.L2U1\ITMO.WFCS.L2U1\obj\Debug\ITMO.WFCS.L2U1.exe
+D:\Coding\ITMO\4. WinForms C#\Lab2\UPR1\ITMO.WFCS.L2U1\ITMO.WFCS.L2U1\obj\Debug\ITMO.WFCS.L2U1.pdb

@@ -1,0 +1,9 @@
+D:\Coding\ITMO\4_WinFormsCS\ALL_LABS\ITMO.WFCS.HW\ITMO.WFCS.L7U3_WinAsynchMethod\bin\Debug\ITMO.WFCS.L7U3_WinAsynchMethod.exe.config
+D:\Coding\ITMO\4_WinFormsCS\ALL_LABS\ITMO.WFCS.HW\ITMO.WFCS.L7U3_WinAsynchMethod\bin\Debug\ITMO.WFCS.L7U3_WinAsynchMethod.exe
+D:\Coding\ITMO\4_WinFormsCS\ALL_LABS\ITMO.WFCS.HW\ITMO.WFCS.L7U3_WinAsynchMethod\bin\Debug\ITMO.WFCS.L7U3_WinAsynchMethod.pdb
+D:\Coding\ITMO\4_WinFormsCS\ALL_LABS\ITMO.WFCS.HW\ITMO.WFCS.L7U3_WinAsynchMethod\obj\Debug\ITMO.WFCS.L7U3_WinAsynchMethod.csprojAssemblyReference.cache
+D:\Coding\ITMO\4_WinFormsCS\ALL_LABS\ITMO.WFCS.HW\ITMO.WFCS.L7U3_WinAsynchMethod\obj\Debug\ITMO.WFCS.L7U3_WinAsynchMethod.Form1.resources
+D:\Coding\ITMO\4_WinFormsCS\ALL_LABS\ITMO.WFCS.HW\ITMO.WFCS.L7U3_WinAsynchMethod\obj\Debug\ITMO.WFCS.L7U3_WinAsynchMethod.Properties.Resources.resources
+D:\Coding\ITMO\4_WinFormsCS\ALL_LABS\ITMO.WFCS.HW\ITMO.WFCS.L7U3_WinAsynchMethod\obj\Debug\ITMO.WFCS.L7U3_WinAsynchMethod.csproj.GenerateResource.cache
+D:\Coding\ITMO\4_WinFormsCS\ALL_LABS\ITMO.WFCS.HW\ITMO.WFCS.L7U3_WinAsynchMethod\obj\Debug\ITMO.WFCS.L7U3_WinAsynchMethod.exe
+D:\Coding\ITMO\4_WinFormsCS\ALL_LABS\ITMO.WFCS.HW\ITMO.WFCS.L7U3_WinAsynchMethod\obj\Debug\ITMO.WFCS.L7U3_WinAsynchMethod.pdb
