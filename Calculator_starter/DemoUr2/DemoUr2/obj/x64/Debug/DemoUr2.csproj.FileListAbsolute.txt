@@ -1,0 +1,4 @@
+D:\Coding\ITMO\4_WinFormsCS\Calculator_starter\DemoUr2\DemoUr2\bin\x64\Debug\DemoUr2.dll
+D:\Coding\ITMO\4_WinFormsCS\Calculator_starter\DemoUr2\DemoUr2\bin\x64\Debug\DemoUr2.pdb
+D:\Coding\ITMO\4_WinFormsCS\Calculator_starter\DemoUr2\DemoUr2\obj\x64\Debug\DemoUr2.dll
+D:\Coding\ITMO\4_WinFormsCS\Calculator_starter\DemoUr2\DemoUr2\obj\x64\Debug\DemoUr2.pdb
