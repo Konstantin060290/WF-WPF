@@ -6,3 +6,4 @@ D:\Coding\ITMO\4_WinFormsCS\ALL_LABS\ITMO.WFCS.HW\ITMO.WFCS.L7U5_Check\obj\Debug
 D:\Coding\ITMO\4_WinFormsCS\ALL_LABS\ITMO.WFCS.HW\ITMO.WFCS.L7U5_Check\obj\Debug\ITMO.WFCS.L7U5_Check.csproj.GenerateResource.cache
 D:\Coding\ITMO\4_WinFormsCS\ALL_LABS\ITMO.WFCS.HW\ITMO.WFCS.L7U5_Check\obj\Debug\ITMO.WFCS.L7U5_Check.exe
 D:\Coding\ITMO\4_WinFormsCS\ALL_LABS\ITMO.WFCS.HW\ITMO.WFCS.L7U5_Check\obj\Debug\ITMO.WFCS.L7U5_Check.pdb
+D:\Coding\ITMO\4_WinFormsCS\ALL_LABS\ITMO.WFCS.HW\ITMO.WFCS.L7U5_Check\obj\Debug\ITMO.WFCS.L7U5_Check.csprojAssemblyReference.cache

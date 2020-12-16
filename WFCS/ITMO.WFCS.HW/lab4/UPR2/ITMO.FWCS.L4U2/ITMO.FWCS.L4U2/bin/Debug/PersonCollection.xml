@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<ArrayOfPerson xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Person>
+    <FirstName xmlns="http://www.MyCompany.com">Вася</FirstName>
+    <LastName xmlns="http://www.MyCompany.com">Пупкин</LastName>
+    <Age xmlns="http://www.MyCompany.com">0</Age>
+  </Person>
+  <Person>
+    <FirstName xmlns="http://www.MyCompany.com">Жорик</FirstName>
+    <LastName xmlns="http://www.MyCompany.com">Вартанов</LastName>
+    <Age xmlns="http://www.MyCompany.com">0</Age>
+  </Person>
+  <Person>
+    <FirstName xmlns="http://www.MyCompany.com">ццц</FirstName>
+    <LastName xmlns="http://www.MyCompany.com">ццц</LastName>
+    <Age xmlns="http://www.MyCompany.com">0</Age>
+  </Person>
+  <Person>
+    <FirstName xmlns="http://www.MyCompany.com">ыы</FirstName>
+    <LastName xmlns="http://www.MyCompany.com">ыы</LastName>
+    <Age xmlns="http://www.MyCompany.com">0</Age>
+  </Person>
+  <Person>
+    <FirstName xmlns="http://www.MyCompany.com">Коля</FirstName>
+    <LastName xmlns="http://www.MyCompany.com">Лапоть</LastName>
+    <Age xmlns="http://www.MyCompany.com">0</Age>
+  </Person>
+  <Person>
+    <FirstName xmlns="http://www.MyCompany.com">Женя</FirstName>
+    <LastName xmlns="http://www.MyCompany.com">Сапог</LastName>
+    <Age xmlns="http://www.MyCompany.com">0</Age>
+  </Person>
+  <Person>
+    <FirstName xmlns="http://www.MyCompany.com">Няня</FirstName>
+    <LastName xmlns="http://www.MyCompany.com">Няня</LastName>
+    <Age xmlns="http://www.MyCompany.com">0</Age>
+  </Person>
+  <Person>
+    <FirstName xmlns="http://www.MyCompany.com">ннн</FirstName>
+    <LastName xmlns="http://www.MyCompany.com">нннн</LastName>
+    <Age xmlns="http://www.MyCompany.com">0</Age>
+  </Person>
+  <Person>
+    <FirstName xmlns="http://www.MyCompany.com">жжжж</FirstName>
+    <LastName xmlns="http://www.MyCompany.com">жжжжж</LastName>
+    <Age xmlns="http://www.MyCompany.com">0</Age>
+  </Person>
+</ArrayOfPerson>
